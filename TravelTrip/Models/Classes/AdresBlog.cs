@@ -6,7 +6,7 @@ using System.Web;
 
 namespace TravelTrip.Models.Classes
 {
-    public class Adres
+    public class AdresBlog
     {
         [Key]
         public int ID { get; set; }
