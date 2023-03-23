@@ -15,6 +15,7 @@ namespace TravelTrip.Controllers
         }
         public ActionResult About()
         {
+
             return View();
         }
     }
