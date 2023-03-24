@@ -162,6 +162,7 @@
     <Content Include="web2\css\style.css" />
     <Content Include="web2\images\avatar.png" />
     <Content Include="web2\images\icon3.png" />
+    <Content Include="web2\images\IMG_20220522_181139_505.jpg" />
     <Content Include="web2\images\logo.jpg" />
     <Content Include="web2\images\man.jpg" />
     <Content Include="web2\images\more.png" />
@@ -169,6 +170,7 @@
     <Content Include="web2\images\post2.jpg" />
     <Content Include="web2\images\post3.jpg" />
     <Content Include="web2\images\search.png" />
+    <Content Include="web2\images\Travel.jpg" />
     <Content Include="web2\index.html" />
     <Content Include="web2\js\easing.js" />
     <Content Include="web2\js\jquery.min.js" />
